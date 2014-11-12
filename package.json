@@ -15,10 +15,10 @@
   "author": {
 	"name": "Mehdi Safavi",
 	"email": "msafavy@gmail.com",
-	"url": "www.rosependar.ir"
+	"url": "http://www.rosependar.ir"
     },
   "demos": [
-    "www.rosependar.ir?page=minor/flyMe"
+    "http://www.rosependar.ir?page=minor/flyMe"
   ],
   "repositories": [
     {
@@ -32,6 +32,6 @@
       "url": "https://spdx.org/licenses/LGPL-3.0+"
     }
   ],
-  "homepage": "www.rosependar.ir?page=minor/code"
+  "homepage": "http://www.rosependar.ir?page=minor/code"
 }
 
