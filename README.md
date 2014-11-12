@@ -1,3 +1,3 @@
 flyMe
 =====
-by this jquery plug in you can view flylist.
+by this jquery plug in you can realy fly to bookmark id!
