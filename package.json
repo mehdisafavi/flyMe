@@ -3,7 +3,7 @@
   "description": "replace html page bookmarks and flying nice cursor to bookmark destination id",
   "version": "1.0.0",
   "keywords": [
-    "bookmark","anchor","animated bookmark","fly to bookmark"
+    "jquery-plugin","bookmark","anchor","animated bookmark","fly to bookmark"
   ],
   "maintainers": [
     {
