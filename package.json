@@ -9,16 +9,16 @@
     {
       "name": "Mehdi Safavi",
       "email": "msafavy@gmail.com",
-      "web": "www.rosependar.ir"
+      "web": "http://www.rosependar.ir"
     }
   ],
   "author": {
 	"name": "Mehdi Safavi",
 	"email": "msafavy@gmail.com",
-	"url": "www.rosependar.ir"
+	"url": "http://www.rosependar.ir"
     },
   "demos": [
-    "www.rosependar.ir?page=minor/flyMe"
+    "http://www.rosependar.ir?page=minor/flyMe"
   ],
   "repositories": [
     {
