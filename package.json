@@ -2,6 +2,9 @@
   "name": "flyMe",
   "description": "replace html page bookmarks and flying nice cursor to bookmark destination id",
   "version": "1.0.0",
+  "dependencies": {
+	"jquery": ">=1.5.0"
+  },
   "keywords": [
     "jquery-plugin","bookmark","anchor","animated bookmark","fly to bookmark"
   ],
