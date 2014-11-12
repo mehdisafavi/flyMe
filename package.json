@@ -1,0 +1,37 @@
+{
+  "name": "flyMe",
+  "description": "replace html page bookmarks and flying nice cursor to bookmark destination id",
+  "version": "1.0.0",
+  "keywords": [
+    "bookmark","anchor","animated bookmark","fly to bookmark"
+  ],
+  "maintainers": [
+    {
+      "name": "Mehdi Safavi",
+      "email": "msafavy@gmail.com",
+      "web": "www.rosependar.ir"
+    }
+  ],
+  "author": {
+	"name": "Mehdi Safavi",
+	"email": "msafavy@gmail.com",
+	"url": "www.rosependar.ir"
+    },
+  "demos": [
+    "www.rosependar.ir?page=minor/flyMe"
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/mehdisafavi/flyMe"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "LGPL-3.0+",
+      "url": "https://spdx.org/licenses/LGPL-3.0+"
+    }
+  ],
+  "homepage": "www.rosependar.ir?page=minor/code"
+}
+
